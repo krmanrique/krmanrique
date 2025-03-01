@@ -1,5 +1,5 @@
 ## Hi, I'm Kevin 👋👨‍💻
-![Image](https://github.com/user-attachments/assets/d4bd0448-f28c-43fb-8c3f-d4306410346d)
+![Image](https://github.com/user-attachments/assets/c29afa22-8b26-498c-bd71-2c83a387f857)
 
 ```javascript
 const krmanrique = {
