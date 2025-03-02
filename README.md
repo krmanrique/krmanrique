@@ -9,6 +9,9 @@ const krmanrique = {
 }
 ```
 
+You can find me 🌎
+- [Instagram] (https://instagram.com/krmanrique)
+
 <!--
 **krmanrique/krmanrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
